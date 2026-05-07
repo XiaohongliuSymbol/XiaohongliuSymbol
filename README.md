@@ -1,10 +1,10 @@
-# 蓬门今始为君开 | Symbol
+# Symbol | 蓬门今始为君开
 
 > "长恨此身非我有，暂时也不想忘却营营。"
 
 > *As a BUPT PhD, worked in Nortel, E///, IBM, Veritas*
 > 
-> *As an Inde hacker, working on commercial EdTech products*
+> *As an Indie hacker, working on commercial EdTech products*
 > 
 > *As myself, diving in K8s*
 
