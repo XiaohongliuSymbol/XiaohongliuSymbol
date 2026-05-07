@@ -2,7 +2,11 @@
 
 > "长恨此身非我有，暂时也不想忘却营营。"
 
-> *BUPT PhD | Ex-IBM, Veritas, Ericsson Architect | Indie Hacker*
+> *As BUPT PhD, worked in Nortel, E///, IBM, Veritas*
+> 
+> *As Inde hacker, working on commercial EduTech products*
+> 
+> *As myself, diving in K8s*
 
 ---
 
