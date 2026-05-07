@@ -2,9 +2,9 @@
 
 > "长恨此身非我有，暂时也不想忘却营营。"
 
-> *As BUPT PhD, worked in Nortel, E///, IBM, Veritas*
+> *As a BUPT PhD, worked in Nortel, E///, IBM, Veritas*
 > 
-> *As Inde hacker, working on commercial EduTech products*
+> *As an Inde hacker, working on commercial EdTech products*
 > 
 > *As myself, diving in K8s*
 
